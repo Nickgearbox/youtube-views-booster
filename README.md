@@ -1,2 +1,2 @@
-# youtube-views-booster
-Views Booster
+# youtube-views-bot
+
